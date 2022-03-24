@@ -1,0 +1,2 @@
+# sistema-vendas
+Um simples sistema com linguagem de programação Java, para gerenciamento de vendas de produtos, cadastros, funcionários, clientes, etc.  O projeto foi criado como modo de seleção de emprego. O sistema é bem simples. Foi solicitado uma produção de web, porém decidi produzir um sistema interno, para praticidade de sua produção e configuração. Foi utilizado também, MySQL, NetBeans, dentre outros.
